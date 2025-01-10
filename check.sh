@@ -1,6 +1,6 @@
 #!/bin/bash
 
-files=("very_good_plot.pdf", "another_nice_plot.svg", "i_like_plotting.png", "almost_finally.eps", "heavenly_plot.pdf", "heavenly_plot.ipynb")
+files=("very_good_plot.pdf" "another_nice_plot.svg" "i_like_plotting.png" "almost_finally.eps" "heavenly_plot.pdf" "heavenly_plot.ipynb")
 
 GREEN='\033[0;32m'
 RED='\033[0;31m'
